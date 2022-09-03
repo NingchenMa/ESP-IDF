@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/maningchen/Desktop/web_course/ESP32-IDF/tcp/build/CMakeFiles/bootloader
+/Users/maningchen/Desktop/web_course/ESP32-IDF/tcp/build/CMakeFiles/bootloader.rule
+/Users/maningchen/Desktop/web_course/ESP32-IDF/tcp/build/CMakeFiles/bootloader-complete.rule
+/Users/maningchen/Desktop/web_course/ESP32-IDF/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/maningchen/Desktop/web_course/ESP32-IDF/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/maningchen/Desktop/web_course/ESP32-IDF/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/maningchen/Desktop/web_course/ESP32-IDF/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/maningchen/Desktop/web_course/ESP32-IDF/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/maningchen/Desktop/web_course/ESP32-IDF/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/maningchen/Desktop/web_course/ESP32-IDF/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

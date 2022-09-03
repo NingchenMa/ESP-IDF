@@ -1,0 +1,17 @@
+{
+    "C_Cpp.intelliSenseEngine": "Default",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "/Users/maningchen/.espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin:/Users/maningchen/.espressif/tools/xtensa-esp32s2-elf/esp-2020r2-8.2.0/xtensa-esp32s2-elf/bin:/Users/maningchen/.espressif/tools/esp32ulp-elf/2.28.51-esp-20191205/esp32ulp-elf-binutils/bin:/Users/maningchen/.espressif/tools/esp32s2ulp-elf/2.28.51-esp-20191205/esp32s2ulp-elf-binutils/bin:/Users/maningchen/.espressif/tools/cmake/3.13.4/CMake.app/Contents/bin:/Users/maningchen/.espressif/tools/openocd-esp32/v0.10.0-esp32-20191114/openocd-esp32/bin:/Users/maningchen/.espressif/tools/ninja/1.9.0",
+    "idf.customExtraVars": "{\"OPENOCD_SCRIPTS\":\"/Users/maningchen/.espressif/tools/openocd-esp32/v0.10.0-esp32-20191114/openocd-esp32/share/openocd/scripts\"}",
+    "idf.espIdfPath": "/Users/maningchen/esp/esp-idf",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32.cfg"
+    ],
+    "idf.port": "/dev/cu.wlan-debug",
+    "idf.pythonBinPath": "/Users/maningchen/.espressif/python_env/idf4.1_py3.8_env/bin/python",
+    "idf.toolsPath": "/Users/maningchen/.espressif",
+    "files.associations": {
+        "module.h": "c"
+    }
+}
